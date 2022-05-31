@@ -1,7 +1,7 @@
 from flask import Flask
 import json
 
-from projet_devops_team3.flask_pytest_example_master.handlers.routes import configure_routes
+from flask_pytest_example-master.handlers.routes import configure_routes
 
 
 def test_base_route():
